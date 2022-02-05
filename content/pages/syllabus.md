@@ -83,15 +83,148 @@ Calendar
 
 The calendar below provides information on the course's lecture (L) and recitation (R) sessions.
 
-| SES # | TOPICS |
-| --- | --- |
-| L1 |  {{< br >}}{{< br >}} Hour 1: Introduction: the role of risk management; how companies manage risk; why companies manage risk {{< br >}}{{< br >}} Hour 2: Case discussion {{< br >}}{{< br >}} Hour 3: Measuring risk, part A: exposure {{< br >}}{{< br >}}  |
-| R1 | Assistance with problem set 1 |
-| L2 |  {{< br >}}{{< br >}} Hour 1: Measuring risk, part B: dynamic models {{< br >}}{{< br >}} Hour 2: Case discussion {{< br >}}{{< br >}} Hour 3: Pricing risk {{< br >}}{{< br >}}  |
-| R2 | Turn in and review problem set 1 |
-| R3 | Turn in and review problem set 2 |
-| L3 |  {{< br >}}{{< br >}} Hour 1: Valuation {{< br >}}{{< br >}} Hour 2: Case discussion {{< br >}}{{< br >}} Hour 3: Trading operations {{< br >}}{{< br >}}  |
-| R4 | Turn in and review problem set 3 |
-| L4 |  {{< br >}}{{< br >}} Hour 1: Financial policy, and liability management {{< br >}}{{< br >}} Hour 2: Case discussion {{< br >}}{{< br >}} Hour 3: Strategic hedging {{< br >}}{{< br >}}  |
-| R5 | Turn in and review problem set 4 |
-| L5 |  {{< br >}}{{< br >}} Hour 1: Case discussion {{< br >}}{{< br >}} Hour 2: Governance and control {{< br >}}{{< br >}} Hour 3: Feedback and student evaluations {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hour 1: Introduction: the role of risk management; how companies manage risk; why companies manage risk
+
+Hour 2: Case discussion
+
+Hour 3: Measuring risk, part A: exposure
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Assistance with problem set 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hour 1: Measuring risk, part B: dynamic models
+
+Hour 2: Case discussion
+
+Hour 3: Pricing risk
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Turn in and review problem set 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Turn in and review problem set 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hour 1: Valuation
+
+Hour 2: Case discussion
+
+Hour 3: Trading operations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Turn in and review problem set 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hour 1: Financial policy, and liability management
+
+Hour 2: Case discussion
+
+Hour 3: Strategic hedging
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Turn in and review problem set 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hour 1: Case discussion
+
+Hour 2: Governance and control
+
+Hour 3: Feedback and student evaluations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
