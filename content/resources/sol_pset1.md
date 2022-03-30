@@ -4,6 +4,7 @@ description: Solutions to a problem set on simulating the risk distribution of t
   copper price using the random walk.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/b2cc2c75400b45c99cdda1e0638a4c93_sol_pset1.xls
 file_type: application/msword
+parent_uid: ef02cc55-33c4-d991-82e9-4465d2736c67
 resourcetype: Other
 title: 'Problem Set #1 Solutions'
 uid: b2cc2c75-400b-45c9-9cdd-a1e0638a4c93
